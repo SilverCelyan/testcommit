@@ -1,4 +1,4 @@
 # testcommit
 Test Checklist
-[] item One
-[] item Two
+- [ ] item One
+- [ ] item Two
